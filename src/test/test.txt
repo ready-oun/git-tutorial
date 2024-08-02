@@ -1,1 +1,3 @@
 git add . 했을 때 이제는 gitignore가 제대로 작동하는지 확인
+
+git diff 확인
