@@ -6,3 +6,5 @@
 4. Compare & Pull Request
 
 담당 폴더경로 내에서 자유롭게 수정하고, 파일을 추가해보세요. 
+
+feature/a에서 추가한 내용임.
